@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
           padding: EdgeInsets.fromLTRB(30.0, 30.0, 0.0, 0.0),
           child: Row(
             children: [
-              Text('동아리 소개',
+              Text('동아리 소개!',
               style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold)),
 
               SizedBox(
